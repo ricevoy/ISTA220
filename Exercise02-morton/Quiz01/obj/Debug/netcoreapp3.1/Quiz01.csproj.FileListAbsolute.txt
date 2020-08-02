@@ -1,0 +1,13 @@
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\bin\Debug\netcoreapp3.1\Quiz01.exe
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\bin\Debug\netcoreapp3.1\Quiz01.deps.json
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\bin\Debug\netcoreapp3.1\Quiz01.runtimeconfig.json
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\bin\Debug\netcoreapp3.1\Quiz01.runtimeconfig.dev.json
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\bin\Debug\netcoreapp3.1\Quiz01.dll
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\bin\Debug\netcoreapp3.1\Quiz01.pdb
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\obj\Debug\netcoreapp3.1\Quiz01.csprojAssemblyReference.cache
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\obj\Debug\netcoreapp3.1\Quiz01.AssemblyInfoInputs.cache
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\obj\Debug\netcoreapp3.1\Quiz01.AssemblyInfo.cs
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\obj\Debug\netcoreapp3.1\Quiz01.csproj.CoreCompileInputs.cache
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\obj\Debug\netcoreapp3.1\Quiz01.dll
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\obj\Debug\netcoreapp3.1\Quiz01.pdb
+C:\Users\rawls\quantico06\ISTA220\exercises\Quiz01\obj\Debug\netcoreapp3.1\Quiz01.genruntimeconfig.cache

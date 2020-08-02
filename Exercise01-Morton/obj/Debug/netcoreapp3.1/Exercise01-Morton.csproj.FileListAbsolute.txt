@@ -1,0 +1,13 @@
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\bin\Debug\netcoreapp3.1\Exercise01-Morton.exe
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\bin\Debug\netcoreapp3.1\Exercise01-Morton.deps.json
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\bin\Debug\netcoreapp3.1\Exercise01-Morton.runtimeconfig.json
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\bin\Debug\netcoreapp3.1\Exercise01-Morton.runtimeconfig.dev.json
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\bin\Debug\netcoreapp3.1\Exercise01-Morton.dll
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\bin\Debug\netcoreapp3.1\Exercise01-Morton.pdb
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\obj\Debug\netcoreapp3.1\Exercise01-Morton.csprojAssemblyReference.cache
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\obj\Debug\netcoreapp3.1\Exercise01-Morton.AssemblyInfoInputs.cache
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\obj\Debug\netcoreapp3.1\Exercise01-Morton.AssemblyInfo.cs
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\obj\Debug\netcoreapp3.1\Exercise01-Morton.csproj.CoreCompileInputs.cache
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\obj\Debug\netcoreapp3.1\Exercise01-Morton.dll
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\obj\Debug\netcoreapp3.1\Exercise01-Morton.pdb
+C:\Users\rawls\quantico06\ISTA220\exercises\Exercise01-Morton\obj\Debug\netcoreapp3.1\Exercise01-Morton.genruntimeconfig.cache

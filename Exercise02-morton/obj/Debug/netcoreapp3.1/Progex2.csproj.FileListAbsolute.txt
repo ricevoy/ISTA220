@@ -1,0 +1,13 @@
+D:\quantico06\ISTA220\exercises\Progex2\obj\Debug\netcoreapp3.1\Progex2.csprojAssemblyReference.cache
+D:\quantico06\ISTA220\exercises\Progex2\obj\Debug\netcoreapp3.1\Progex2.AssemblyInfoInputs.cache
+D:\quantico06\ISTA220\exercises\Progex2\obj\Debug\netcoreapp3.1\Progex2.AssemblyInfo.cs
+D:\quantico06\ISTA220\exercises\Progex2\obj\Debug\netcoreapp3.1\Progex2.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA220\exercises\Progex2\bin\Debug\netcoreapp3.1\Progex2.exe
+D:\quantico06\ISTA220\exercises\Progex2\bin\Debug\netcoreapp3.1\Progex2.deps.json
+D:\quantico06\ISTA220\exercises\Progex2\bin\Debug\netcoreapp3.1\Progex2.runtimeconfig.json
+D:\quantico06\ISTA220\exercises\Progex2\bin\Debug\netcoreapp3.1\Progex2.runtimeconfig.dev.json
+D:\quantico06\ISTA220\exercises\Progex2\bin\Debug\netcoreapp3.1\Progex2.dll
+D:\quantico06\ISTA220\exercises\Progex2\bin\Debug\netcoreapp3.1\Progex2.pdb
+D:\quantico06\ISTA220\exercises\Progex2\obj\Debug\netcoreapp3.1\Progex2.dll
+D:\quantico06\ISTA220\exercises\Progex2\obj\Debug\netcoreapp3.1\Progex2.pdb
+D:\quantico06\ISTA220\exercises\Progex2\obj\Debug\netcoreapp3.1\Progex2.genruntimeconfig.cache
